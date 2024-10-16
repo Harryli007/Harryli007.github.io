@@ -1,0 +1,42 @@
+body{
+    font-size:medium;
+    background-color: rgb(36, 36, 36);
+    color: rgb(241, 241, 241);
+}
+
+a:link {
+    color: rgb(55, 160, 246);
+    background-color: transparent;
+    text-decoration: underline;
+    
+  }
+  
+  a:visited {
+    color: rgb(128, 13, 146);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:hover {
+    color: rgb(245, 85, 85);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: rgb(168, 168, 104);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+h3{
+    color: rgb(179, 128, 255);
+}
+
+h1{
+    color:rgb(116, 197, 234)
+}
+
+li{
+    color:rgb(40, 199, 146)
+}
