@@ -1,11 +1,41 @@
+
+/*div classes .vll and .vlr should be requirements*/
+.vll {
+  border-left: 3px solid rgb(241, 241, 241);
+  height: 500px;
+  position: absolute;
+  left: 3%;
+  margin-left: -3px;
+
+}
+.vlr {
+  border-left: 3px solid rgb(241, 241, 241);
+  height: 500px;
+  position: absolute;
+  left: 97%;
+  margin-left: -3px;
+
+}
+
+html{
+  width: 6;
+}
+
+.limit{
+  text-align:center;
+  word-break: break-all;
+  
+}
+
+/* Automatics Below */
 body{
     font-size:medium;
-    background-color: rgb(36, 36, 36);
+    background-color: rgb(15, 15, 15);
     color: rgb(241, 241, 241);
 }
 
 a:link {
-    color: rgb(55, 160, 246);
+    color: rgb(68, 169, 251);
     background-color: transparent;
     text-decoration: underline;
     
@@ -40,3 +70,4 @@ h1{
 li{
     color:rgb(40, 199, 146)
 }
+
